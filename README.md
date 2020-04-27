@@ -1,3 +1,5 @@
 # hello-world
-cominciom a s'cepà ol giazz
-ho comincià a guardà m'al funziona ghitub parchè g'ho de capì ma sa fà a fà andà l'odoo
+
+ho comincià a guardà m'al funziona e g'ho capì nagott.
+
+Modifico anca mo' il testo e ricommitto e ripusho
